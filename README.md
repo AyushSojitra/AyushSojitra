@@ -13,7 +13,7 @@ Along with this technical knowledge I also love to work as Graphic Designer. I e
 
 Happy to connect 🤟🏻
 - <a href="https://www.charusat.ac.in/depstar/"><img width="18px" src="https://github.com/AyushSojitra/AyushSojitra/blob/main/assets/TRANSPARENT Depstar Logo.png" /></a> This is place were I will complete my Graduation
-- <a href="https://github.com/AyushSojitra"><img width="18px" src="https://github.com/AyushSojitra/AyushSojitra/blob/main/assets/" /></a> I’m currently learning Machine Learning and Deep Learning
+- <a href="https://github.com/AyushSojitra"><img width="18px" src="https://github.com/AyushSojitra/AyushSojitra/blob/main/assets/ML.png" /></a> I’m currently learning Machine Learning and Deep Learning
 - <a href=""><img width="18px" src="https://github.com/AyushSojitra/AyushSojitra/blob/main/assets/learning.png" /></a> Eager to learn new things
 <!-- - <a href="https://AyushSojitra.github.io/Portfolio">👨‍💻</a> Here you can get my portfolio available. -->
 - <a href="https://github.com/AyushSojitra/AyushSojitra/blob/main/document/Ayush's Resume.pdf">📄</a> Know about my experiences
@@ -41,8 +41,8 @@ Happy to connect 🤟🏻
 ## 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-Flutter        40 mins          █████████████████▒░░░░░░░   66.33 % 
-Designing      20 mins          ███████▓░░░░░░░░░░░░░░░░░   33.33 % 
+Deep Learning    40 mins          █████████████████▒░░░░░░░   66.33 % 
+Project          20 mins          ███████▓░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 <!--END_SECTION:waka-->
 <br>
