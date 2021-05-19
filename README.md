@@ -13,12 +13,12 @@ Along with this technical knowledge I also love to work as Graphic Designer. I e
 
 Happy to connect 🤟🏻
 - <a href="https://www.charusat.ac.in/depstar/"><img width="18px" src="https://github.com/AyushSojitra/AyushSojitra/blob/main/assets/TRANSPARENT Depstar Logo.png" /></a> This is place were I will complete my Graduation
-- <a href="https://github.com/AyushSojitra"><img width="18px" src="https://github.com/AyushSojitra/AyushSojitra/blob/main/assets/flutter.png" /></a> I’m currently learning Flutter App Development
-- <a href="https://drive.google.com/drive/folders/1KyrMaQDkR2vWUW6CEkm3n8bgo-wL2KBb?usp=sharing"><img width="18px" src="https://github.com/AyushSojitra/AyushSojitra/blob/main/assets/ai.png" /></a> Proved to be a Graphic designer
-- <a href="https://AyushSojitra.github.io/Portfolio">👨‍💻</a> Here you can get my portfolio available.
+- <a href="https://github.com/AyushSojitra"><img width="18px" src="https://github.com/AyushSojitra/AyushSojitra/blob/main/assets/" /></a> I’m currently learning Machine Learning and Deep Learning
+- <a href=""><img width="18px" src="https://github.com/AyushSojitra/AyushSojitra/blob/main/assets/learning.png" /></a> Eager to learn new things
+<!-- - <a href="https://AyushSojitra.github.io/Portfolio">👨‍💻</a> Here you can get my portfolio available. -->
 - <a href="https://github.com/AyushSojitra/AyushSojitra/blob/main/document/Ayush's Resume.pdf">📄</a> Know about my experiences
-- 📫 How to reach me: shubhammendapara2441@gmail.com
-- ⚡ Fun fact: I also endeavor to do fantastic things in my life, such as keep smiling and making other smile
+- 📫 How to reach me: ayushsojitra1@gmail.com
+- ⚡ Fun fact: I love to make people smile 😁
 
 ## Connect with me:
 <p align="left">
