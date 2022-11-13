@@ -5,7 +5,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/AyushSojitra/?color=red)
 ![Years Badge](https://badges.pufler.dev/years/AyushSojitra/?color=red)
 
-Pursuing majors in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
+I am pursuing masters of science in computer science at University of Texas at Dallas, and am a recent Graduate in Computer Science and Technology, Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.<br>
 
 I aspire to work with an industry to get hands-on experience on the latest technology to keep my knowledge up to speed with what's going on throughout the world.<br>
 Along with this technical knowledge I also love to work as Graphic Designer. I enjoy doing creative things in my design during my pastime, therefore I try to do as many things as possible to make it beautiful and splendid.<br>
